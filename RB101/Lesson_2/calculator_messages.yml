@@ -1,0 +1,8 @@
+welcome: 'Welcome to StackTrase calculator! Please enter your name.'
+valid_name: "I asked for your name my man!, go ahead..."
+number1: "What's the first number?"
+valid_number1: "Hmmm... that doesn't look correct to me though... Enter something called NUMBER!"
+number2: "What's the second number?"
+valid_number2: "Yo! Don't mess up y'bro! enter a valid number! N-O-W!!!"
+valid_op: "Must include 1, 2, 3 or 4."
+redo: "Would you like to perform another calculation, Sir? (Y to calculate again.)"
